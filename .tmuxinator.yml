@@ -1,0 +1,4 @@
+name: guia-pericos
+windows:
+  - editor: eval $EDITOR
+  - main: yarn start
